@@ -79,8 +79,12 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->
+- [A great tool for increased productivity – Microsoft PowerToys](https://leiflarsen.org/a-great-tool-for-increased-productivity-microsoft-powertoys/?utm_source=rss&utm_medium=rss&utm_campaign=a-great-tool-for-increased-productivity-microsoft-powertoys)
+- [Migrating my blog – once again](https://leiflarsen.org/migrating-my-blog-once-again/?utm_source=rss&utm_medium=rss&utm_campaign=migrating-my-blog-once-again)
+- [Reignititon](https://leiflarsen.org/reignititon/?utm_source=rss&utm_medium=rss&utm_campaign=reignititon)
+- [On Burning the Candle From All Sides](https://leiflarsen.org/on-burning-the-candle-from-all-sides/?utm_source=rss&utm_medium=rss&utm_campaign=on-burning-the-candle-from-all-sides)
+- [Writing a book](https://leiflarsen.org/writing-a-book/?utm_source=rss&utm_medium=rss&utm_campaign=writing-a-book)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
