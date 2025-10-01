@@ -1,6 +1,5 @@
 ## Hey 👋, I'm Leif Larsen!  
   
-
 <a href="https://github.com/leif-larsen" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -8,17 +7,12 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
-
-
-
 ### Architect by trade, problem-solver at heart — welcome to my corner of GitHub.  
 Hey there 👋 I’m a tech advisor and former Cloud Solution Architect who’s been building things in code and the cloud for well over a decade. I’ve gone from wrangling industrial control systems for ships to helping organizations design modern cloud platforms — and I still get a kick out of solving tricky problems with simple, sustainable solutions.
 
 These days you’ll find me sharing ideas, tinkering with new tech, and occasionally talking about how to balance deep work with a good life outside the keyboard. If you see a mix of cloud architecture, .NET experiments, and random side projects here… yep, that’s me.  
   
-
 <br/>  
-
 
 ## Languages and Tools  
 <div align="center">  
@@ -53,10 +47,6 @@ These days you’ll find me sharing ideas, tinkering with new tech, and occasion
 
 <br/>  
 
-  
-
-<br/>  
-
 <div align="left">
             <a href="https://www.buymeacoffee.com/leiflarsen" target="_blank" style="display: inline-block;">
                 <img
@@ -65,6 +55,5 @@ These days you’ll find me sharing ideas, tinkering with new tech, and occasion
                 />
             </a></div>
 <br />
-
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
