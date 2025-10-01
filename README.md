@@ -69,12 +69,6 @@ If you see a mix of cloud architecture, .NET experiments, and random side projec
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leif-larsen&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 - [A great tool for increased productivity - Microsoft PowerToys](https://www.leiflarsen.org/posts/a-great-tool-for-increased-productivity-microsoft-powertoys/)
@@ -85,12 +79,6 @@ If you see a mix of cloud architecture, .NET experiments, and random side projec
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-  
 
 <br/>  
 
