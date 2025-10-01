@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://www.leiflarsen.org/images/me.jpg" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Architect by trade, problem-solver at heart — welcome to my corner of GitHub.</div>  
   
 
