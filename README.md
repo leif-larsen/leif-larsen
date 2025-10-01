@@ -45,8 +45,12 @@ If you see a mix of cloud architecture, .NET experiments, and random side projec
 <br/>  
 
 
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->
+- [A great tool for increased productivity - Microsoft PowerToys](https://www.leiflarsen.org/posts/a-great-tool-for-increased-productivity-microsoft-powertoys/)
+- [On Burning the Candle From All Sides](https://www.leiflarsen.org/posts/on-burning-the-candle-from-all-sides/)
+- [Writing a book](https://www.leiflarsen.org/posts/writing-a-book/)
+- [Creating build server status lamps](https://www.leiflarsen.org/posts/creating-build-server-status-lamps/)
+- [Recommending a blog   Coding with Empathy](https://www.leiflarsen.org/posts/recommending-a-blog-coding-with-empathy/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
