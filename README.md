@@ -44,7 +44,7 @@ If you see a mix of cloud architecture, .NET experiments, and random side projec
 
 <br/>  
 
-
+## Latest blog posts 
 <!-- BLOG-POST-LIST:START -->
 - [A great tool for increased productivity - Microsoft PowerToys](https://www.leiflarsen.org/posts/a-great-tool-for-increased-productivity-microsoft-powertoys/)
 - [On Burning the Candle From All Sides](https://www.leiflarsen.org/posts/on-burning-the-candle-from-all-sides/)
