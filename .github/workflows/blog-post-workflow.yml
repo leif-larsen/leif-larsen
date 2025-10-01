@@ -11,5 +11,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://leiflarsen.org/feed/"
+          feed_list: "https://www.leiflarsen.org/index.xml"
           max_post_count: 5
