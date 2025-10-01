@@ -11,7 +11,7 @@ If you see a mix of cloud architecture, .NET experiments, and random side projec
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table width="100%"><tr><td valign="top" width="33%">
 
 
 
