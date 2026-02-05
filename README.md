@@ -38,11 +38,11 @@ These days you’ll find me sharing ideas, tinkering with new tech, and occasion
 
 ## Latest blog posts 
 <!-- BLOG-POST-LIST:START -->
-- [Aspire Dashboard gRPC Error Caused by a Local Proxy](https://www.leiflarsen.org/posts/aspire-dashboard-grpc-error/)
+- [Aspire Dashboard gRPC Error Caused by a Local Proxy](https://www.leiflarsen.org/posts/2026/aspire-dashboard-grpc-error/)
 - [Privacy Policy](https://www.leiflarsen.org/privacy/)
-- [A great tool for increased productivity - Microsoft PowerToys](https://www.leiflarsen.org/posts/a-great-tool-for-increased-productivity-microsoft-powertoys/)
-- [On Burning the Candle From All Sides](https://www.leiflarsen.org/posts/on-burning-the-candle-from-all-sides/)
-- [Writing a book](https://www.leiflarsen.org/posts/writing-a-book/)
+- [Meet Leif](https://www.leiflarsen.org/about/)
+- [A great tool for increased productivity - Microsoft PowerToys](https://www.leiflarsen.org/posts/2020/a-great-tool-for-increased-productivity-microsoft-powertoys/)
+- [On Burning the Candle From All Sides](https://www.leiflarsen.org/posts/2019/on-burning-the-candle-from-all-sides/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
